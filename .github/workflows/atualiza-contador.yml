@@ -1,0 +1,40 @@
+name: atualiza contador de projetos
+on:
+  schedule:
+    - cron: "37 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  contar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: conta projetos públicos e regenera o typing.svg
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          N=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/users/lucasgabrieldevgg/repos?per_page=100" \
+            | jq '[.[] | select(.fork==false) | .name | select(. != "lucasgabrieldevgg" and . != "ytgrab")] | length')
+          echo "projetos públicos contados: $N"
+          echo "N=$N" >> "$GITHUB_ENV"
+          curl -s "https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=21&duration=3000&pause=800&color=4ADE80&center=true&vCenter=true&width=640&lines=Dev+de+IA+j%C3%BAnior;${N}+projetos+publicados+%E2%80%94+e+contando;coach+que+treina+%C2%B7+b%C3%ADblia+que+semeia+%C2%B7+IA+que+narra;testo+antes+de+publicar%2C+sempre" \
+            -o assets/typing.svg
+          grep -q "<svg\|<!--" assets/typing.svg || { echo "typing.svg veio lixo — abortando sem commit"; git checkout -- assets/typing.svg; exit 1; }
+
+      - name: commit se mudou
+        run: |
+          git config user.name "lucasgabrieldevgg"
+          git config user.email "lucasgabrieldevgg@users.noreply.github.com"
+          git add assets/typing.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "contador: ${{ env.N }} projetos publicados"
+            git push
+          else
+            echo "número não mudou, nada a commitar"
+          fi
