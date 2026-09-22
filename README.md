@@ -80,7 +80,7 @@ Bíblia todo dia: **31 traduções**, capítulo baixa e fica **offline**, metas 
 
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=22c55e" />
 <img src="https://img.shields.io/badge/IA-0d1117?style=flat-square&logo=openai&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/113%20testes-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/103%20testes-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
 
 </div>
 
