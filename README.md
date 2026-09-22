@@ -207,8 +207,8 @@ Cola código, vê bonito na hora, compartilha o link. Ferramenta simples feita p
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasgabrieldevgg&show_icons=true&hide_border=true&bg_color=00000000&title_color=4ade80&text_color=c9d1d9&icon_color=22c55e" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabrieldevgg&layout=compact&hide_border=true&bg_color=00000000&title_color=4ade80&text_color=c9d1d9" alt="linguagens" />
+<img height="165" src="https://readme-stats-lucas.vercel.app/api?username=lucasgabrieldevgg&show_icons=true&hide_border=true&bg_color=00000000&title_color=4ade80&text_color=c9d1d9&icon_color=22c55e" alt="stats" />
+<img height="165" src="https://readme-stats-lucas.vercel.app/api/top-langs/?username=lucasgabrieldevgg&layout=compact&hide_border=true&bg_color=00000000&title_color=4ade80&text_color=c9d1d9" alt="linguagens" />
 
 <br><br>
 
@@ -216,11 +216,11 @@ Cola código, vê bonito na hora, compartilha o link. Ferramenta simples feita p
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasgabrieldevgg&bg_color=00000000&color=c9d1d9&line=22c55e&point=4ade80&area=true&area_color=14532d&hide_border=true&custom_title=contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%20meses" alt="atividade" />
+<img src="https://graph-lucas.vercel.app/graph?username=lucasgabrieldevgg&bg_color=00000000&color=c9d1d9&line=22c55e&point=4ade80&area=true&area_color=14532d&hide_border=true&custom_title=contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%20meses" alt="atividade" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=lucasgabrieldevgg&theme=discord&no-frame=true&column=7&margin-w=8" alt="troféus" />
+<img src="https://trophy-lucas.vercel.app/?username=lucasgabrieldevgg&theme=discord&no-frame=true&column=7&margin-w=8" alt="troféus" />
 
 </div>
 
