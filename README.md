@@ -2,9 +2,9 @@
 
 <!-- ══════════════ LUCAS GABRIEL ══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,55:14532d,100:22c55e&text=Lucas%20Gabriel&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Dev%20de%20IA%20j%C3%BAnior%20%E2%80%A2%20fa%C3%A7o%20produto%2C%20n%C3%A3o%20demonstra%C3%A7%C3%A3o&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+<img src="assets/banner.svg" alt="Lucas Gabriel — Dev de IA júnior · faço produto, não demonstração" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=21&duration=3000&pause=800&color=4ADE80&center=true&vCenter=true&width=640&lines=Dev+de+IA+j%C3%BAnior;14+projetos+publicados+—+e+contando;coach+que+treina+%C2%B7+b%C3%ADblia+que+semeia+%C2%B7+IA+que+narra;testo+antes+de+publicar%2C+sempre" alt="digitando" />
+<img src="assets/typing.svg" alt="Dev de IA júnior · 14 projetos publicados — e contando · testo antes de publicar, sempre" />
 
 <br>
 
@@ -184,6 +184,35 @@ Cola código, vê bonito na hora, compartilha o link. Ferramenta simples feita p
 </div>
 </td>
 </tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+<h3 align="center">📬 Caixa-Agente</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/tempo%20real-0d1117?style=flat-square&logo=socketdotio&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/R%24%200-161b22?style=flat-square&logoColor=22c55e" />
+
+</div>
+
+<div align="center">
+
+Manda instruções pro teu agente de IA <b>no meio da execução</b>, sem interromper nada:
+ele lê no próximo checkpoint, faz o que você pediu e confirma com <b>✓ VISTO</b>.
+Tempo real, sem cadastro, segredo zero.
+
+<br><br>
+
+<a href="https://lucasgabrieldevgg.github.io/caixa-agente/"><img src="https://img.shields.io/badge/ABRIR%20APP-22c55e?style=for-the-badge&logo=github&logoColor=0d1117" /></a>
+<a href="https://github.com/lucasgabrieldevgg/caixa-agente"><img src="https://img.shields.io/badge/C%C3%93DIGO-161b22?style=for-the-badge&logo=github&logoColor=22c55e" /></a>
+
+</div>
+</td>
+</tr>
 </table>
 
 <details>
@@ -196,8 +225,7 @@ Cola código, vê bonito na hora, compartilha o link. Ferramenta simples feita p
 <a href="https://github.com/lucasgabrieldevgg/portal-escolar-inteligente">portal-escolar-inteligente</a> ·
 <a href="https://github.com/lucasgabrieldevgg/tabuada-diaria">tabuada-diaria</a> ·
 <a href="https://github.com/lucasgabrieldevgg/pausa-20">pausa-20</a> ·
-<a href="https://github.com/lucasgabrieldevgg/imagens-aleatorias">imagens-aleatorias</a> ·
-<a href="https://github.com/lucasgabrieldevgg/caixa-agente">caixa-agente</a>
+<a href="https://github.com/lucasgabrieldevgg/imagens-aleatorias">imagens-aleatorias</a>
 
 </details>
 
@@ -250,6 +278,6 @@ Cola código, vê bonito na hora, compartilha o link. Ferramenta simples feita p
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:22c55e,55:14532d,100:0d1117&section=footer&text=%F0%9F%8C%B1%20plantado%20por%20Lucas%20Gabriel&fontColor=ffffff&fontSize=20&fontAlignY=65" width="100%" />
+<img src="assets/footer.svg" alt="🌱 plantado por Lucas Gabriel" width="100%" />
 
 </div>
