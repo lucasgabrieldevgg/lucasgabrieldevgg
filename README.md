@@ -80,11 +80,11 @@ Bíblia todo dia: **31 traduções**, capítulo baixa e fica **offline**, metas 
 
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=22c55e" />
 <img src="https://img.shields.io/badge/IA-0d1117?style=flat-square&logo=openai&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/105%20testes-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/108%20testes-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
 
 </div>
 
-Coach de treino que **pergunta uma coisa por vez**, decide a carga sozinho, renova o plano a cada fase e lembra do que você pediu pra ele não esquecer.
+Conversa com você, **monta o plano pelo papo** (e remonta quando tua rotina muda), decide a carga sozinho a cada fase, lembra do que você pediu com 📌 — e ainda ganhou **timers com 5s de preparação** que ele mesmo cria no chat.
 
 <div align="center">
 
