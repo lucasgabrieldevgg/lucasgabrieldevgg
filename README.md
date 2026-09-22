@@ -238,7 +238,7 @@ Tempo real, sem cadastro, segredo zero.
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=lucasgabrieldevgg&locale=pt_BR&hide_border=true&background=00000000&ring=22c55e&fire=E3742F&currStreakLabel=4ade80&sideLabels=c9d1d9&dates=8b949e" alt="ofensiva" />
+<img src="https://stk-lucas.vercel.app?user=lucasgabrieldevgg&locale=pt_BR&hide_border=true&background=00000000&ring=22c55e&fire=E3742F&currStreakLabel=4ade80&sideLabels=c9d1d9&dates=8b949e" alt="ofensiva" />
 
 <br><br>
 
