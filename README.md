@@ -80,11 +80,11 @@ Bíblia todo dia: **31 traduções**, capítulo baixa e fica **offline**, metas 
 
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=22c55e" />
 <img src="https://img.shields.io/badge/IA-0d1117?style=flat-square&logo=openai&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/97%20testes-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/108%20testes-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
 
 </div>
 
-O app **abre direto no papo**: o coach monta o plano conversando e aí libera tudo — remonta quando tua rotina muda, decide a carga a cada fase, lembra com 📌, explica qualquer exercício ("❓ como faz?") e cria/edita **timers com 5s de preparação** no chat.
+Homepage → perguntas → **abre direto no chat** com tudo liberado e os treinos **linkados pro YouTube** (busca pronta). O coach remonta quando tua rotina muda, decide a carga a cada fase, explica qualquer exercício ("❓ como faz?") e cria/edita **timers com 5s de preparação** no chat.
 
 <div align="center">
 
