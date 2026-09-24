@@ -58,12 +58,11 @@ Regras da casa:
 
 <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=22c55e" />
 <img src="https://img.shields.io/badge/PWA-0d1117?style=flat-square&logo=googlechrome&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/IA-0d1117?style=flat-square&logo=openai&logoColor=22c55e" />
 <img src="https://img.shields.io/badge/23%20testes%20%2B%20CI-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
 
 </div>
 
-Bíblia todo dia: **31 traduções**, capítulo baixa e fica **offline**, metas e ofensiva, Modo XP com loja de capas — e uma IA que explica o capítulo em linguagem de gente.
+Bíblia todo dia: **31 traduções**, capítulo baixa e fica **offline**, metas e ofensiva, Modo XP com loja de capas — tudo offline, no teu ritmo.
 
 <div align="center">
 
