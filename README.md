@@ -59,6 +59,7 @@ Regras da casa:
 <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=22c55e" />
 <img src="https://img.shields.io/badge/PWA-0d1117?style=flat-square&logo=googlechrome&logoColor=22c55e" />
 <img src="https://img.shields.io/badge/IA-0d1117?style=flat-square&logo=openai&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/23%20testes%20%2B%20CI-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
 
 </div>
 
