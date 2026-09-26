@@ -160,9 +160,6 @@ Uma janela para o mundo: **fotos aleatórias de domínio público** do Wikimedia
 
 </div>
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">📞 CallChat</h3>
@@ -184,7 +181,9 @@ Chamada de voz e vídeo **direto no navegador**, de pessoa pra pessoa, sem servi
 
 </div>
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">🧑‍💻 CodePreview</h3>
@@ -205,9 +204,6 @@ Cola código, vê bonito na hora, compartilha o link. Ferramenta simples feita p
 
 </div>
 </td>
-</tr>
-
-<tr>
 <td colspan="2" valign="top">
 
 <h3 align="center">📬 Caixa-Agente</h3>
@@ -235,6 +231,7 @@ Tempo real, sem cadastro, segredo zero.
 </div>
 </td>
 </tr>
+
 </table>
 
 <details>
