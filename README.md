@@ -142,6 +142,29 @@ História interativa com **narração viva de IA** — cada escolha muda o rumo,
 <tr>
 <td width="50%" valign="top">
 
+<h3 align="center">🖼️ Imagens Aleatórias</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Wikimedia%20Commons-0d1117?style=flat-square&logo=wikipedia&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/14%20testes%20%2B%20CI-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
+
+</div>
+
+Uma janela para o mundo: **fotos aleatórias de domínio público** do Wikimedia Commons, com modos de atmosfera (calmo, histórico, anemoia, abandonados…), favoritos e histórico — sempre com crédito e licença.
+
+<div align="center">
+
+<a href="https://lucasgabrieldevgg.github.io/imagens-aleatorias"><img src="https://img.shields.io/badge/ABRIR%20APP-22c55e?style=for-the-badge&logo=github&logoColor=0d1117" /></a>
+<a href="https://github.com/lucasgabrieldevgg/imagens-aleatorias"><img src="https://img.shields.io/badge/C%C3%93DIGO-161b22?style=for-the-badge&logo=github&logoColor=22c55e" /></a>
+
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 <h3 align="center">📞 CallChat</h3>
 
 <div align="center">
