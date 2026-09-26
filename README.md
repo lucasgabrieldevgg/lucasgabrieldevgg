@@ -103,11 +103,11 @@ Homepage → perguntas → **abre direto no chat** com tudo liberado e os treino
 <div align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/234%20testes-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/22%20testes%20%2B%20CI-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
 
 </div>
 
-O clássico "leio seu pensamento", levado a sério demais: **9 versões** evoluindo a mesma ideia, com suíte de testes cobrindo cada tela.
+O clássico "leio seu pensamento", levado a sério demais: **9 versões** evoluindo a mesma ideia, com suíte de testes cobrindo cada tela — e o botão 🔎 "ir mais fundo" monta um dossiê com fontes científicas de verdade (OpenAlex) pra cada missão.
 
 <div align="center">
 
