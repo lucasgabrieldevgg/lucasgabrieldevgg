@@ -171,10 +171,11 @@ Uma janela para o mundo: **fotos aleatórias de domínio público** do Wikimedia
 
 <img src="https://img.shields.io/badge/WebRTC-0d1117?style=flat-square&logo=webrtc&logoColor=22c55e" />
 <img src="https://img.shields.io/badge/P2P-161b22?style=flat-square&logo=hackthebox&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/17%20testes%20%2B%20e2e%202%20navegadores-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
 
 </div>
 
-Chamada de voz **direto no navegador**, de pessoa pra pessoa, sem servidor de áudio no meio da conversa.
+Chamada de voz e vídeo **direto no navegador**, de pessoa pra pessoa, sem servidor no meio — testada com e2e de 2 navegadores (conexão, mídia e chat nos dois sentidos).
 
 <div align="center">
 
