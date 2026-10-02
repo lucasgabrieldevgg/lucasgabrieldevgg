@@ -232,7 +232,7 @@ Tempo real, sem cadastro, segredo zero.
 <div align="center">
 
 <img src="https://img.shields.io/badge/caderno%20de%20matem%C3%A1tica-0d1117?style=flat-square&logo=googlescholar&logoColor=4ade80" />
-<img src="https://img.shields.io/badge/48%20testes%20%2B%20CI-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/55%20testes%20%2B%20CI-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
 
 </div>
 
