@@ -18,7 +18,7 @@ jobs:
       - name: 📊 geral (estilo stats card)
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_METRICS }}
           filename: metrics/stats.svg
           config_timezone: America/Cuiaba
           config_display: large
@@ -29,7 +29,7 @@ jobs:
       - name: 🗣️ linguagens (estilo top-langs)
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_METRICS }}
           filename: metrics/languages.svg
           config_timezone: America/Cuiaba
           config_display: large
@@ -43,7 +43,7 @@ jobs:
       - name: 🔥 ofensiva (estilo streak)
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_METRICS }}
           filename: metrics/streak.svg
           config_timezone: America/Cuiaba
           config_display: large
@@ -55,7 +55,7 @@ jobs:
       - name: 📅 calendário do ano (estilo activity graph)
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_METRICS }}
           filename: metrics/calendar.svg
           config_timezone: America/Cuiaba
           config_colors: '{"background":"#00000000","title":"#4ade80","text":"#c9d1d9","accent":"#22c55e"}'
