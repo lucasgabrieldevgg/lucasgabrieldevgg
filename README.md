@@ -284,10 +284,11 @@ Tempo real, sem cadastro, segredo zero.
 <div align="center">
 
 <a href="https://github.com/lucasgabrieldevgg"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22c55e" /></a>
+<a href="mailto:lucas.ai.builder@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br>
 
-<sub>só GitHub por enquanto — o resto é código</sub>
+<sub>contato: lucas.ai.builder@gmail.com — o resto é código</sub>
 
 </div>
 
