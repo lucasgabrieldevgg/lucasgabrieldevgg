@@ -254,22 +254,24 @@ Tempo real, sem cadastro, segredo zero.
 
 <div align="center">
 
-<img height="165" src="https://readme-stats-lucas.vercel.app/api?username=lucasgabrieldevgg&show_icons=true&hide_border=true&bg_color=00000000&title_color=4ade80&text_color=c9d1d9&icon_color=22c55e" alt="stats" />
-<img height="165" src="https://readme-stats-lucas.vercel.app/api/top-langs/?username=lucasgabrieldevgg&layout=compact&hide_border=true&bg_color=00000000&title_color=4ade80&text_color=c9d1d9" alt="linguagens" />
+<img height="165" src="https://raw.githubusercontent.com/lucasgabrieldevgg/lucasgabrieldevgg/main/metrics/stats.svg" alt="stats" />
+<img height="165" src="https://raw.githubusercontent.com/lucasgabrieldevgg/lucasgabrieldevgg/main/metrics/languages.svg" alt="linguagens" />
 
 <br><br>
 
-<img src="https://stk-lucas.vercel.app?user=lucasgabrieldevgg&locale=pt_BR&hide_border=true&background=00000000&ring=22c55e&fire=E3742F&currStreakLabel=4ade80&sideLabels=c9d1d9&dates=8b949e" alt="ofensiva" />
+<img src="https://raw.githubusercontent.com/lucasgabrieldevgg/lucasgabrieldevgg/main/metrics/streak.svg" alt="ofensiva" />
 
 <br><br>
 
-<img src="https://graph-lucas.vercel.app/graph?username=lucasgabrieldevgg&bg_color=00000000&color=c9d1d9&line=22c55e&point=4ade80&area=true&area_color=14532d&hide_border=true&custom_title=contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%20meses" alt="atividade" />
+<img src="https://raw.githubusercontent.com/lucasgabrieldevgg/lucasgabrieldevgg/main/metrics/calendar.svg" alt="atividade" />
 
 <br><br>
 
 <img src="https://trophy-lucas.vercel.app/?username=lucasgabrieldevgg&theme=discord&no-frame=true&column=7&margin-w=8" alt="troféus" />
 
 </div>
+
+> ℹ️ os cards de cima são gerados **por GitHub Action** (`metrics.yml`, diário) — sem rate limit de API pública; os troféus seguem na instância própria da Vercel.
 
 ---
 
