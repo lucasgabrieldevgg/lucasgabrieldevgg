@@ -259,10 +259,6 @@ Tempo real, sem cadastro, segredo zero.
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/lucasgabrieldevgg/lucasgabrieldevgg/main/metrics/streak.svg" alt="ofensiva" />
-
-<br><br>
-
 <img src="https://raw.githubusercontent.com/lucasgabrieldevgg/lucasgabrieldevgg/main/metrics/calendar.svg" alt="atividade" />
 
 <br><br>
@@ -271,7 +267,7 @@ Tempo real, sem cadastro, segredo zero.
 
 </div>
 
-> ℹ️ os cards de cima são gerados **por GitHub Action** (`metrics.yml`, diário) — sem rate limit de API pública; os troféus seguem na instância própria da Vercel.
+> ℹ️ cards gerados **por GitHub Action** (`metrics.yml`, diário) — sem rate limit de API pública. A ofensiva (🔥 melhor sequência, pico diário) aparece no calendário 3D; os troféus seguem na instância própria da Vercel.
 
 ---
 
