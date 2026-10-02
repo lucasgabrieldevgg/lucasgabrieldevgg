@@ -50,7 +50,7 @@ Regras da casa:
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3 align="center">🌱 Semeador</h3>
 
@@ -71,8 +71,7 @@ Bíblia todo dia: **31 traduções**, capítulo baixa e fica **offline**, metas 
 
 </div>
 </td>
-
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3 align="center">💪 IA Coach</h3>
 
@@ -93,10 +92,7 @@ Homepage → perguntas → **abre direto no chat** com tudo liberado e os treino
 
 </div>
 </td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3 align="center">🔮 Mentalista</h3>
 
@@ -116,8 +112,10 @@ O clássico "leio seu pensamento", levado a sério demais: **9 versões** evolui
 
 </div>
 </td>
+</tr>
 
-<td width="50%" valign="top">
+<tr>
+<td width="33%" valign="top">
 
 <h3 align="center">✦ SoulChat</h3>
 
@@ -137,10 +135,7 @@ História interativa com **narração viva de IA** — cada escolha muda o rumo,
 
 </div>
 </td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3 align="center">🖼️ Imagens Aleatórias</h3>
 
@@ -160,7 +155,7 @@ Uma janela para o mundo: **fotos aleatórias de domínio público** do Wikimedia
 
 </div>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3 align="center">📞 CallChat</h3>
 
@@ -184,7 +179,7 @@ Chamada de voz e vídeo **direto no navegador**, de pessoa pra pessoa, sem servi
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3 align="center">🧑‍💻 CodePreview</h3>
 
@@ -204,7 +199,7 @@ Cola código, vê bonito na hora, compartilha o link. Ferramenta simples feita p
 
 </div>
 </td>
-<td colspan="2" valign="top">
+<td width="33%" valign="top">
 
 <h3 align="center">📬 Caixa-Agente</h3>
 
@@ -230,9 +225,28 @@ Tempo real, sem cadastro, segredo zero.
 
 </div>
 </td>
-</tr>
+<td width="33%" valign="top">
 
-</table>
+<h3 align="center">🧮 Tabuada Diária</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/caderno%20de%20matem%C3%A1tica-0d1117?style=flat-square&logo=googlescholar&logoColor=4ade80" />
+<img src="https://img.shields.io/badge/48%20testes%20%2B%20CI-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
+
+</div>
+
+Um caderno de matemática que estuda com você todo dia: **36 contas**, flashcards que insistem nas que você erra, quiz com **domínio ⭐**, desafio de 60s, macetes de professora **marcados a amarelo** — com 🔥 de ofensiva de estudos. Papel quadriculado, tinta azul, margem vermelha.
+
+<div align="center">
+
+<a href="https://lucasgabrieldevgg.github.io/tabuada-diaria/"><img src="https://img.shields.io/badge/ABRIR%20APP-22c55e?style=for-the-badge&logo=github&logoColor=0d1117" /></a>
+<a href="https://github.com/lucasgabrieldevgg/tabuada-diaria"><img src="https://img.shields.io/badge/C%C3%93DIGO-161b22?style=for-the-badge&logo=github&logoColor=22c55e" /></a>
+
+</div>
+</td>
+</tr>
+</table></table>
 
 <details>
 <summary><b>🌱 e as mudinhas que também estão no ar</b></summary>
