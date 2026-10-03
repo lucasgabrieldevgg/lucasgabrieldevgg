@@ -4,9 +4,9 @@
 
 <!-- ══════════════ LUCAS GABRIEL ══════════════ -->
 
-<img src="assets/banner-pt.svg" alt="Lucas Gabriel — Dev de IA júnior · faço produto, não demonstração" width="100%" />
+<img src="assets/banner-en.svg" alt="Lucas Gabriel — Dev de IA júnior · faço produto, não demonstração" width="100%" />
 
-<img src="assets/typing-pt.svg" alt="Dev de IA júnior · 14 projetos publicados — e contando · testo antes de publicar, sempre" />
+<img src="assets/typing-en.svg" alt="Dev de IA júnior · 14 projetos publicados — e contando · testo antes de publicar, sempre" />
 
 <br>
 
