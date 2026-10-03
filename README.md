@@ -1,5 +1,3 @@
-[🇧🇷 Português](README.pt-BR.md)
-
 <div align="center">
 
 <!-- ══════════════ LUCAS GABRIEL ══════════════ -->
