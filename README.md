@@ -246,7 +246,33 @@ Um caderno de matemática que estuda com você todo dia: **36 contas**, flashcar
 </div>
 </td>
 </tr>
-</table></table>
+
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">🎬 GalaxyCut</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/WebCodecs-0d1117?style=flat-square&logo=googlechrome&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/Electron-0d1117?style=flat-square&logo=electron&logoColor=22c55e" />
+
+</div>
+
+Editor de vídeo de verdade, **rodando 100% no navegador**: timeline multi-trilha, legendas karaoke com **Whisper rodando local**, detector de silêncio, gravação de voz e busca de música/efeitos livres — exporta **sem marca d'água**. Tem app de desktop (Linux AppImage + Windows) com atualizador próprio.
+
+<div align="center">
+
+<a href="https://galaxycut.vercel.app"><img src="https://img.shields.io/badge/ABRIR%20APP-22c55e?style=for-the-badge&logo=vercel&logoColor=0d1117" /></a>
+<a href="https://github.com/lucasgabrieldevgg/galaxycut"><img src="https://img.shields.io/badge/C%C3%93DIGO-161b22?style=for-the-badge&logo=github&logoColor=22c55e" /></a>
+
+</div>
+</td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 <details>
 <summary><b>🌱 e as mudinhas que também estão no ar</b></summary>
@@ -256,9 +282,7 @@ Um caderno de matemática que estuda com você todo dia: **36 contas**, flashcar
 <a href="https://github.com/lucasgabrieldevgg/quiz-agent">quiz-agent</a> ·
 <a href="https://github.com/lucasgabrieldevgg/learnflow">learnflow</a> ·
 <a href="https://github.com/lucasgabrieldevgg/portal-escolar-inteligente">portal-escolar-inteligente</a> ·
-<a href="https://github.com/lucasgabrieldevgg/tabuada-diaria">tabuada-diaria</a> ·
-<a href="https://github.com/lucasgabrieldevgg/pausa-20">pausa-20</a> ·
-<a href="https://github.com/lucasgabrieldevgg/imagens-aleatorias">imagens-aleatorias</a>
+<a href="https://github.com/lucasgabrieldevgg/pausa-20">pausa-20</a>
 
 </details>
 
