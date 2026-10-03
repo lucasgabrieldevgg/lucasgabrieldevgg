@@ -26,7 +26,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path0'>
-            Dev de IA júnior
+            Junior AI dev
         </textPath>
     </text>
         <path id='path1'>
@@ -40,7 +40,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path1'>
-            15 projetos publicados — e contando
+            15 projects published — and counting
         </textPath>
     </text>
         <path id='path2'>
@@ -54,7 +54,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path2'>
-            coach que treina · bíblia que semeia · IA que narra
+            a coach that trains · a bible that sows · AI that narrates
         </textPath>
     </text>
         <path id='path3'>
@@ -68,7 +68,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path3'>
-            testo antes de publicar, sempre
+            I test before shipping, always
         </textPath>
     </text>
 </svg>
