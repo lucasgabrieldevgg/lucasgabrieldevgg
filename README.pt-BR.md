@@ -169,7 +169,7 @@ Uma janela para o mundo: **fotos aleatórias de domínio público** do Wikimedia
 
 </div>
 
-Chamada de voz e vídeo **direto no navegador**, de pessoa pra pessoa, sem servidor no meio — testada com e2e de 2 navegadores (conexão, mídia e chat nos dois sentidos).
+Chamada de voz e vídeo **direto no navegador**, de pessoa pra pessoa, sem servidor no meio — testada ao vivo com e2e de 2 navegadores (conexão, mídia nos dois sentidos, chat, corrida de host-tardio). Visual de cabine âmbar, teu nome em todo tile.
 
 <div align="center">
 
