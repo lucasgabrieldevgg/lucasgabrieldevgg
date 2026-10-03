@@ -4,9 +4,9 @@
 
 <!-- ══════════════ LUCAS GABRIEL ══════════════ -->
 
-<img src="assets/banner.svg" alt="Lucas Gabriel — Dev de IA júnior • faço produto, não demonstração" width="100%" />
+<img src="assets/banner-pt.svg" alt="Lucas Gabriel — Dev de IA júnior • faço produto, não demonstração" width="100%" />
 
-<img src="assets/typing.svg" alt="Dev de IA júnior · 15 projetos publicados — e contando · testo antes de publicar, sempre" />
+<img src="assets/typing-pt.svg" alt="Dev de IA júnior · 15 projetos publicados — e contando · testo antes de publicar, sempre" />
 
 <br>
 
@@ -336,6 +336,6 @@ A real video editor, **running 100% in the browser**: multi-track timeline, kara
 
 <div align="center">
 
-<img src="assets/footer.svg" alt="🌱 plantado por Lucas Gabriel" width="100%" />
+<img src="assets/footer-pt.svg" alt="🌱 plantado por Lucas Gabriel" width="100%" />
 
 </div>
