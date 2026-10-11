@@ -271,8 +271,114 @@ Editor de vídeo de verdade, **rodando 100% no navegador**: timeline multi-trilh
 
 </div>
 </td>
-<td></td>
-<td></td>
+<td width="33%" valign="top">
+
+<h3 align="center">🎯 Quiz Agent</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/AI-0d1117?style=flat-square&logo=openai&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/55%20tests%20%2B%20CI-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
+
+</div>
+
+Quiz **sem opções prontas**: a turma digita qualquer categoria, a IA cria questões abertas e corrige resposta em texto livre — e um **corretor local de matemática** segura a aula se a API cair.
+
+<div align="center">
+
+<a href="https://quiz-agent-sigma.vercel.app"><img src="https://img.shields.io/badge/ABRIR%20APP-22c55e?style=for-the-badge&logo=vercel&logoColor=0d1117" /></a>
+<a href="https://github.com/lucasgabrieldevgg/quiz-agent"><img src="https://img.shields.io/badge/C%C3%93DIGO-161b22?style=for-the-badge&logo=github&logoColor=22c55e" /></a>
+
+</div>
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">👁️ Pausa 20</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/CI%3A%20lint%20%2B%20build-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
+
+</div>
+
+Descanso 20-20-20 que cabe na rotina: a cada 20 minutos, um **desafio personalizado de 20 segundos** — escuro, calmo e gamificado pra manter o hábito vivo.
+
+<div align="center">
+
+<a href="https://pausa-20.vercel.app"><img src="https://img.shields.io/badge/ABRIR%20APP-22c55e?style=for-the-badge&logo=vercel&logoColor=0d1117" /></a>
+<a href="https://github.com/lucasgabrieldevgg/pausa-20"><img src="https://img.shields.io/badge/C%C3%93DIGO-161b22?style=for-the-badge&logo=github&logoColor=22c55e" /></a>
+
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">🎛️ Sala de Agentes</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/Multi--AI-0d1117?style=flat-square&logo=openai&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/179%20tests%20%2B%20CI-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
+
+</div>
+
+Várias IAs — de **ferramentas diferentes** — numa sala só: relatos por tipo (TAREFA · FEITO · BLOQUEIO · DECISÃO), **quadro de tarefas ao vivo** e TXT como memória permanente.
+
+<div align="center">
+
+<a href="https://saladeagentes.vercel.app"><img src="https://img.shields.io/badge/ABRIR%20APP-22c55e?style=for-the-badge&logo=vercel&logoColor=0d1117" /></a>
+<a href="https://github.com/lucasgabrieldevgg/saladeagentes"><img src="https://img.shields.io/badge/C%C3%93DIGO-161b22?style=for-the-badge&logo=github&logoColor=22c55e" /></a>
+
+</div>
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🧭 LearnFlow</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/AI-0d1117?style=flat-square&logo=openai&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/43%20tests%20%2B%20CI-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
+
+</div>
+
+Professor de IA que **troca a representação** quando você não entendeu — a mesma ideia, desenhada de outro jeito, até enquadrar. Vem com quiz e flashcards que se adaptam.
+
+<div align="center">
+
+<a href="https://learnflow-ia.vercel.app"><img src="https://img.shields.io/badge/ABRIR%20APP-22c55e?style=for-the-badge&logo=vercel&logoColor=0d1117" /></a>
+<a href="https://github.com/lucasgabrieldevgg/learnflow-ia"><img src="https://img.shields.io/badge/C%C3%93DIGO-161b22?style=for-the-badge&logo=github&logoColor=22c55e" /></a>
+
+</div>
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🏫 Portal Escolar</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/Prisma%20%2B%20CI-161b22?style=flat-square&logo=githubactions&logoColor=22c55e" />
+
+</div>
+
+Plataforma escolar gamificada: **XP, medalhas**, biblioteca com IA e planos semanais — o CI roda lint, Prisma e **build real do Next** a cada push.
+
+<div align="center">
+
+<a href="https://portal-escolar-inteligente.vercel.app"><img src="https://img.shields.io/badge/ABRIR%20APP-22c55e?style=for-the-badge&logo=vercel&logoColor=0d1117" /></a>
+<a href="https://github.com/lucasgabrieldevgg/portal-escolar-inteligente"><img src="https://img.shields.io/badge/C%C3%93DIGO-161b22?style=for-the-badge&logo=github&logoColor=22c55e" /></a>
+
+</div>
+</td>
 </tr>
 </table>
 
@@ -280,11 +386,7 @@ Editor de vídeo de verdade, **rodando 100% no navegador**: timeline multi-trilh
 <summary><b>🌱 e as mudinhas que também estão no ar</b></summary>
 <br>
 
-<a href="https://github.com/lucasgabrieldevgg/agentforge">agentforge</a> ·
-<a href="https://github.com/lucasgabrieldevgg/quiz-agent">quiz-agent</a> ·
-<a href="https://github.com/lucasgabrieldevgg/learnflow">learnflow</a> ·
-<a href="https://github.com/lucasgabrieldevgg/portal-escolar-inteligente">portal-escolar-inteligente</a> ·
-<a href="https://github.com/lucasgabrieldevgg/pausa-20">pausa-20</a>
+<a href="https://github.com/lucasgabrieldevgg/agentforge">agentforge</a>
 
 </details>
 
